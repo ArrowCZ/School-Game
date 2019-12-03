@@ -1,0 +1,20 @@
+G:\PRV\Hra - DU\Hra - DU\bin\Debug\Hra - DU.exe.config
+G:\PRV\Hra - DU\Hra - DU\bin\Debug\Hra - DU.exe
+G:\PRV\Hra - DU\Hra - DU\bin\Debug\Hra - DU.pdb
+G:\PRV\Hra - DU\Hra - DU\obj\Debug\Hra - DU.csprojResolveAssemblyReference.cache
+G:\PRV\Hra - DU\Hra - DU\obj\Debug\Hra___DU.Form1.resources
+G:\PRV\Hra - DU\Hra - DU\obj\Debug\Hra___DU.Properties.Resources.resources
+G:\PRV\Hra - DU\Hra - DU\obj\Debug\Hra - DU.csproj.GenerateResource.Cache
+G:\PRV\Hra - DU\Hra - DU\obj\Debug\Hra - DU.csproj.CoreCompileInputs.cache
+G:\PRV\Hra - DU\Hra - DU\obj\Debug\Hra - DU.exe
+G:\PRV\Hra - DU\Hra - DU\obj\Debug\Hra - DU.pdb
+C:\Users\super\Desktop\Práce\Hra - DU\Hra - DU\obj\Debug\Hra - DU.exe
+C:\Users\super\Desktop\Práce\Hra - DU\Hra - DU\obj\Debug\Hra - DU.pdb
+C:\Users\super\Desktop\Práce\Hra - DU\Hra - DU\bin\Debug\Hra - DU.exe.config
+C:\Users\super\Desktop\Práce\Hra - DU\Hra - DU\bin\Debug\Hra - DU.exe
+C:\Users\super\Desktop\Práce\Hra - DU\Hra - DU\bin\Debug\Hra - DU.pdb
+C:\Users\super\Desktop\Práce\Hra - DU\Hra - DU\obj\Debug\Hra - DU.csprojAssemblyReference.cache
+C:\Users\super\Desktop\Práce\Hra - DU\Hra - DU\obj\Debug\Hra___DU.Form1.resources
+C:\Users\super\Desktop\Práce\Hra - DU\Hra - DU\obj\Debug\Hra___DU.Properties.Resources.resources
+C:\Users\super\Desktop\Práce\Hra - DU\Hra - DU\obj\Debug\Hra - DU.csproj.GenerateResource.cache
+C:\Users\super\Desktop\Práce\Hra - DU\Hra - DU\obj\Debug\Hra - DU.csproj.CoreCompileInputs.cache
